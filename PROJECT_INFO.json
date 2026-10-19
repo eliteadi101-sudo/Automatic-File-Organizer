@@ -1,0 +1,5 @@
+{
+  "name": "Automatic File Organizer",
+  "stack": "Python 3, pathlib, shutil",
+  "description": "Sort files in a selected folder into type-based subfolders, with a dry-run mode by default."
+}
